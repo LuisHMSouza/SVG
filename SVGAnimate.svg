@@ -7,14 +7,18 @@
             stroke: #5fed00;
             stroke-width: 10;
             stroke-miterlimit: 10;
+    <g id="square">
+        <rect x="50" y="375" height="150" width="150">
             <animateTransform 
                               attributeName="transform" 
                               begin="0s" 
-                              dur="10s" 
+                              dur="2s" 
                               type="rotate" 
-                              from="360 125 450" 
-                              to="0 125 450" 
+                              from="0 125 450" 
+                              to="360 125 450" 
                               repeatCount="indefinite" />
+        </rect>
+    </g>
         }
     </style>
     <g id="square">
