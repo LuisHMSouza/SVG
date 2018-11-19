@@ -14,7 +14,7 @@
         <rect x="50" y="375" height="150" width="150">
             <animateTransform id="trans"
                               attributeName="transform" 
-                              begin="0s" 
+                              begin="team.mouseover" 
                               dur="10s" 
                               type="rotate" 
                               from="0 125 450" 
