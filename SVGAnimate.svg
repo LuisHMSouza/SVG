@@ -16,7 +16,7 @@
                               attributeName="transform" 
                               begin="square.mouseover" 
                               end="square.mouseout" 
-                              dur="10s" 
+                              dur="5s" 
                               type="rotate" 
                               from="0 125 450" 
                               to="360 125 450" 
