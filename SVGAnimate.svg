@@ -15,6 +15,7 @@
             <animateTransform id="trans"
                               attributeName="transform" 
                               begin="square.mouseover" 
+                              end="square.mouseout" 
                               dur="10s" 
                               type="rotate" 
                               from="0 125 450" 
